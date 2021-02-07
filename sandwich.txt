@@ -1,8 +1,7 @@
-bicho
 pan
 ketchup
 mostaza
 lechuga
 tomate
-mortadela
+tocino
 pan
